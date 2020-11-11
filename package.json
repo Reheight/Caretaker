@@ -8,5 +8,12 @@
     "devStart": "nodemon ."
   },
   "author": "Dustin Palmatier",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.13"
+  }
 }
