@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Fri Nov 13 2020 17:37:11 GMT-0500 (Eastern Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/index.js
+* src/utilities/Globals/index.js
+* src/utilities/MongoDB/index.js
+* src/utilities/index.js
+
+
+Created files:
+* .autogit/logs/log-11-10-2020-19-11-13.txt
+
+
+Deleted files:
+
+
+Renamed files:
